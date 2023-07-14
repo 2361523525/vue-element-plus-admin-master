@@ -1,0 +1,6 @@
+@import 'var.css';
+@import 'common.less';
+@import 'element-plus/theme-chalk/dark/css-vars.css';
+.el-popup-parent--hidden {
+  width: 100% !important;
+}
